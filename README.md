@@ -2,7 +2,7 @@
 ## Date: 18 / 12 / 2024
 
 ## AIM:
-To design, develop and deploy a web application for event registration.
+To design, develop and deploy a web application for event registration. 
 
 ## DESIGN STEPS:
 
